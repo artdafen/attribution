@@ -1,6 +1,6 @@
 Attribution / Credits
 
-Last updated: 2025-11-28
+Last updated: 2025-12-03
 
 This page lists all third-party music materials used in our videos, together with proper attribution under the Creative Commons Attribution 3.0 Unported (CC BY 3.0) license.
 
@@ -20,17 +20,27 @@ We keep this page up to date. If you believe any attribution is missing or incor
 
 Music Attribution List
 
+cinema-by-alex-productions
+eglair-by-alex-productions
+inspiring-cinematic-music-409347
+carol-of-the-bells-177048
+violin-is-in-painsad-violin-268426
+sad-violin-150146
+continue-life-by-kevin-macleod
+soft-calm-piano-music-405074
+sad-piano-background-music-347261
+melody-of-nature-main-6672
+
+
 Music: Cinema by Alex-Productions https://soundcloud.com/alexproductionsmusic
 License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0
 Free Download / Stream: https://audiolibrary.com.co/alex-productions/cinema
 Music promoted by Audio Library: https://youtu.be/89ihROphQJM?t=204
 
-
 Music: Eglair by Alex-Productions https://soundcloud.com/alexproductionsmusic
 License: Creative Commons — Attribution 3.0 Unported — CC BY 3.0
 Free Download / Stream: https://audiolibrary.com.co/alex-productions/eglair
 Music promoted by Audio Library: https://youtu.be/VHA5HqH1mXk
-
 
 
 PIXABAY LICENSE CERTIFICATE
@@ -68,8 +78,6 @@ For any queries related to this document please contact Pixabay via info@pixabay
 
 ==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
 
-
-
 PIXABAY LICENSE CERTIFICATE
 ==============================================
 
@@ -104,7 +112,6 @@ For any queries related to this document please contact Pixabay via info@pixabay
 
 
 ==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
-
 
 PIXABAY LICENSE CERTIFICATE
 ==============================================
@@ -183,20 +190,112 @@ Creative Commons — Attribution 4.0 International — CC BY 4.0
 Free Download / Stream: https://bit.ly/continue-life
 Music promoted by Audio Library https://youtu.be/2QrEw5jSjEo
 
-Dawn by Scandinavianz https://soundcloud.com/scandinavianz
-Creative Commons — Attribution 3.0 Unported — CC BY 3.0
-Free Download / Stream: https://audiolibrary.com.co/scandinavianz/dawn
-Music promoted by Audio Library https://youtu.be/PHVVgsk9hyE
+PIXABAY LICENSE CERTIFICATE
+==============================================
 
-Ethereal by Ghostrifter Official https://bit.ly/ghostrifter-sc
-Creative Commons — Attribution-NoDerivs 3.0 Unported
-Free Download / Stream: https://www.audiolibrary.com.co/ghostrifter-official/ethereal
-Music promoted by Audio Library https://youtu.be/_7g8jZfhvH4
+This document confirms the download of an audio file pursuant to the Content License as defined in the Pixabay Terms of Service available at https://pixabay.com/service/terms/
 
-Laid Back Guitars by Kevin MacLeod http://incompetech.com
-Creative Commons — Attribution 4.0 International — CC BY 4.0
-Free Download / Stream: https://bit.ly/_laid-back-guitars
-Music promoted by Audio Library https://youtu.be/OOiBVpyOdRc
+Licensor's Username:
+https://pixabay.com/users/sigmamusicart-36860929/
+
+Licensee:
+muscidae
+
+Audio File Title:
+Soft Calm Piano Music
+
+Audio File URL:
+https://pixabay.com/music/modern-classical-soft-calm-piano-music-405074/
+
+Audio File ID:
+405074
+
+Date of download:
+2025-12-03 09:14:19 UTC
+
+Pixabay, a Canva Germany GmbH brand
+Pappelallee 78/79
+10437 Berlin
+Germany
+
+Pixabay is a user-contributed stock content website. The above-named Licensor is responsible for this audio file. Pixabay monitors uploaded audio files only to a reasonable extent. Pixabay cannot be held responsible for the acts or omissions of its users and does not represent or warrant that any required third-party consents or licenses have been obtained.
+
+For any queries related to this document please contact Pixabay via info@pixabay.com.
+
+
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
+
+PIXABAY LICENSE CERTIFICATE
+==============================================
+
+This document confirms the download of an audio file pursuant to the Content License as defined in the Pixabay Terms of Service available at https://pixabay.com/service/terms/
+
+Licensor's Username:
+https://pixabay.com/users/tunetank-50201703/
+
+Licensee:
+muscidae
+
+Audio File Title:
+Sad Piano Background Music
+
+Audio File URL:
+https://pixabay.com/music/small-drama-sad-piano-background-music-347261/
+
+Audio File ID:
+347261
+
+Date of download:
+2025-12-03 09:16:15 UTC
+
+Pixabay, a Canva Germany GmbH brand
+Pappelallee 78/79
+10437 Berlin
+Germany
+
+Pixabay is a user-contributed stock content website. The above-named Licensor is responsible for this audio file. Pixabay monitors uploaded audio files only to a reasonable extent. Pixabay cannot be held responsible for the acts or omissions of its users and does not represent or warrant that any required third-party consents or licenses have been obtained.
+
+For any queries related to this document please contact Pixabay via info@pixabay.com.
+
+
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
+
+
+PIXABAY LICENSE CERTIFICATE
+==============================================
+
+This document confirms the download of an audio file pursuant to the Content License as defined in the Pixabay Terms of Service available at https://pixabay.com/service/terms/
+
+Licensor's Username:
+https://pixabay.com/users/good_b_music-22836301/
+
+Licensee:
+muscidae
+
+Audio File Title:
+Melody of Nature (Main)
+
+Audio File URL:
+https://pixabay.com/music/beautiful-plays-melody-of-nature-main-6672/
+
+Audio File ID:
+6672
+
+Date of download:
+2025-11-28 03:35:37 UTC
+
+Pixabay, a Canva Germany GmbH brand
+Pappelallee 78/79
+10437 Berlin
+Germany
+
+Pixabay is a user-contributed stock content website. The above-named Licensor is responsible for this audio file. Pixabay monitors uploaded audio files only to a reasonable extent. Pixabay cannot be held responsible for the acts or omissions of its users and does not represent or warrant that any required third-party consents or licenses have been obtained.
+
+For any queries related to this document please contact Pixabay via info@pixabay.com.
+
+
+==== THIS IS NOT A TAX RECEIPT OR INVOICE ====
+
 
 
 --------------------------------------------------
